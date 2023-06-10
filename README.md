@@ -1,7 +1,7 @@
 # CoinToss
 
 [![npm version](https://img.shields.io/npm/v/@dilums/coin-toss.svg)](https://www.npmjs.com/package/@dilums/coin-toss)
-[![license](https://img.shields.io/npm/l/@dilums/coin-toss.svg)](https://github.com/@dilums/coin-toss/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@dilums/coin-toss.svg)](https://github.com/dilums/coin-toss/blob/main/LICENSE)
 
 
 CoinToss is a lightweight JavaScript library that allows you to simulate a coin toss. With just a single function, you can quickly generate a random outcome of either "heads" or "tails."
