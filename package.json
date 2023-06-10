@@ -1,6 +1,6 @@
 {
   "name": "@dilums/coin-toss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CoinToss is a lightweight JavaScript library that allows you to simulate a coin toss. ",
   "main": "index.js",
   "scripts": {
