@@ -1,0 +1,23 @@
+{
+  "name": "@dilums/coin-toss",
+  "version": "1.0.0",
+  "description": "CoinToss is a lightweight JavaScript library that allows you to simulate a coin toss. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilums/coin-toss.git"
+  },
+  "keywords": [
+    "math",
+    "utils"
+  ],
+  "author": "Dilum Sanjaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilums/coin-toss/issues"
+  },
+  "homepage": "https://github.com/dilums/coin-toss#readme"
+}
